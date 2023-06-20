@@ -1,2 +1,2 @@
-# TopNews
-A news portal website
+# topnews.com
+
